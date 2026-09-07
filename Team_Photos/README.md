@@ -13,7 +13,16 @@ This folder contains photos of **Team RCBC**, capturing our team spirit, collabo
 <div align="center">
   <img src="During_Work.jpeg" alt="Team RCBC Working in Lab" width="600">
 </div>
+### 🕒 After Work
+<div align="center">
+  <img src="After_Work.jpeg" alt="Team RCBC After Work" width="600">
+</div>
 
+### 🎉 Fun Fact
+**We are friends for a long time.**
+<div align="center">
+  <img src="Fun_Fact.jpeg" alt="Team RCBC Fun Fact" width="600">
+</div>
 ---
 
 ## 📝 Notes
