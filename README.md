@@ -297,7 +297,7 @@ Our electronic architecture emphasizes modularity, reliability, and hands-on eng
 
 | Component | Image | Quantity | Function | Key Specifications |
 |-----------|-------|----------|----------|-------------------|
-| **Raspberry Pi 4 Model B (4GB)** | <img src="Others/Rasppery%20Pi%204%20Model%20B.png" width="150" alt="Raspberry Pi 4"> | 1 | Main Processing & Vision | Quad-core Cortex-A72, 4GB RAM, Peripheral & Camera Interface |
+| **Raspberry Pi 4 Model B (4GB)** |<img src="Others/Raspbery%20Pi%204%20Model%20B.png" width="150" alt="Raspberry Pi 4"> | 1 | Main Processing & Vision | Quad-core Cortex-A72, 4GB RAM, Peripheral & Camera Interface |
 | **Raspberry Pi Camera Module 2 (8MP)** | <img src="Others/Camera_Module.png" width="150" alt="Camera Module"> | 1 | Visual Navigation | 8MP Sony IMX219 sensor, 1080p video, CSI interface |
 | **HC-SR04 Ultrasonic Sensor** | <img src="Others/Ultrasoni_Sensor.png" width="150" alt="Ultrasonic Sensor"> | 2 | Distance & Obstacle Detection | 2cm to 400cm range, 15-degree measurement angle |
 | **MG966R Servo Motor** | <img src="Others/Mg966R%20Servo%20Motor.png" width="150" alt="Servo Motor"> | 1 | Steering Actuation | High-torque metal gear servo, 180° rotation |
@@ -541,7 +541,7 @@ Our software implementation employs a distributed processing architecture that o
 
 </td>
 <td width="40%">
-<img src="system%20implmention.jpeg" alt="System Implementation" width="100%">
+ <img src="colors/system%20implmention.jpeg" alt="System Implementation" width="100%">
 <p align="center"><em>Integrated development and testing setup</em></p>
 </td>
 </tr>
@@ -592,10 +592,10 @@ We selected the **HSV color space** for its superior performance under variable 
 <div align="center">
   
 ### **Detection Code Testing**
-<img src="Testing_The_Detection_code.jpg" alt="Testing The Detection Code" width="80%">
+ <img src="colors/Testing_The_Detection_code.jpg" alt="Testing The Detection Code" width="80%">
 
 ### **Calibration Testing**
-<img src="testing_the_calibration_code%20%282%29.jpg" alt="Testing The Calibration Code" width="80%">
+ <img src="colors/testing_the_calibration_code%20%282%29.jpg" alt="Testing The Calibration Code" width="80%">
 
 </div>
 
@@ -649,7 +649,7 @@ IF front distance
 <div align="center">
   
 ### **Red Color Detection**
-<img src="Testing_The_Red_Detection.jpg" alt="Testing The Red Detection" width="80%">
+<img src="colors/Testing_The_Red_Detection.jpg" alt="Testing The Red Detection" width="80%">
 
 </div>
 
@@ -738,10 +738,9 @@ The algorithm handles all possible obstacle combinations through systematic patt
 4. **Target Identification**: Largest valid blob selection for reliability
 5. **Error Calculation**: Position deviation from desired tracking point
 
-<div align="center">
-<img src="Testing_The_Detection_code.jpg" alt="Single Color Detection" style="width:80%;">
+<div align="center"><img src="colors/Testing_The_Detection_code.jpg" alt="Single Color Detection" style="width:80%;">
 <br><br>
-<img src="Testing_The_Red_Detection.jpg" alt="Red Color Detection" style="width:80%;">
+<img src="colors/Testing_The_Red_Detection.jpg" alt="Red Color Detection" style="width:80%;">
 </div>
 
 ### **Software & Algorithms – Potential Improvements**
@@ -768,6 +767,10 @@ Our development process included precise testing and validation to ensure compet
 ### **Video Documentation**
 
 Complete performance demonstrations showcasing our vehicle's capabilities:
+
+📹 **Full video library**: [Google Drive - Performance & Testing Videos](https://drive.google.com/drive/folders/1aqdMkAl4uZPi23gUwCWyC1Bx4tsVxPQt)
+
+Selected highlight clips are also available directly in this repository under [`Videos/`](Videos/).
 
 
 
