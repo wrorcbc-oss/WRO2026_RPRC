@@ -17,8 +17,8 @@ Welcome to the GitHub repository of Team RPRC, competing in the World Robot Olym
 
 Our mission was to engineer a highly precise and exceptionally fast autonomous vehicle for the WRO 2025 challenge, prioritizing dynamic stability, speed, and flawless execution over extreme miniaturization. Leveraging our expertise in electrical, mechanical, and software engineering, we optimized every component to dominate the 3 m x 3 m game field.
 Current best times on the 3 m x 3 m field:
-- **Open Challenge**: ## seconds (full score)
-- **Obstacle Challenge**: ## seconds (full score)
+- **Open Challenge**: 60 seconds (full score)
+- **Obstacle Challenge**: 80 seconds (full score)
 
 
 ---
