@@ -318,19 +318,15 @@ Our electronic architecture emphasizes modularity, reliability, and hands-on eng
   <em>1) Complete hand-drawn and digitally traced professional wiring schematic showing all electrical connections (<a href="schemes/wiring_diagram.jpg" target="_blank">view full resolution</a>) • 2) Physical implementation demonstrating socket-based construction of the schematic</em>
 </p>
 
-### **Individual Component Schematics**
-
-<div align="center">
-
-<div align="center">
 | Component Schematic | Description | Full Documentation |
-|---------------------|-------------|-------------------|
+| --- | --- | --- |
 | <img src="raspery_bi_connected_with_camera.jpg" height="150" alt="Raspberry Pi Wiring"> | **Raspberry Pi 4 Connection System**<br>GPIO interface, power distribution, and camera CSI connection | [View Details](schemes/README.md#microcontroller-systems) |
 | <img src="motor_drive.jpg" height="150" alt="Driver Scheme"> | **L298N Motor Driver Control**<br>PWM motor regulation and dual H-bridge connections | [View Details](schemes/README.md#motor-control-systems) |
 | <img src="servo_motor.jpg" height="150" alt="Servo Scheme"> | **MG966R Servo Control**<br>Steering mechanism PWM signal mapping | [View Details](schemes/README.md#motor-control-systems) |
 | <img src="ultrasonic.jpg" height="150" alt="Ultrasonic Scheme"> | **HC-SR04 Ultrasonic Sensor Network**<br>Trigger and echo pin integration for distance measurement | [View Details](schemes/README.md#sensor-systems) |
 | <img src="Lipo_power_mangment.jpg" height="150" alt="Power Scheme"> | **Power Management & Distribution**<br>LiPo battery charging and main power regulation | [View Details](schemes/README.md#power-management-components) |
 | <img src="button.jpg" height="150" alt="Button Scheme"> | **User Interface & Control**<br>Start push button and tactile system interface | [View Details](schemes/README.md#-interface--control-systems) |
+
 
 ### **Power Management Innovation**
 
