@@ -138,11 +138,44 @@ Team RPRC includes passionate students from EGYPT, guided by a coach. This is ou
   *Role*: Team Coach, Connector  
   *Background*: Graduated, Computer and Informatics Science, Ain Shams University  
   *Born*: 2000, EGYPT
-  
-<br>
+# 👥 Team Photos
+
+This folder contains photos of **Team RCBC**, capturing our team spirit, collaboration, and hardware development process throughout the WRO Future Engineers project.
+
+---
+
+## 📸 Photo List
+
+### 🛠️ Team at Work - `During_Work.jpeg`
+**Focus: Lab Collaboration & Development**
+- Team members working together on robot assembly, sensor testing, and software integration in the lab.
+
 <div align="center">
-  <img src="Team_Photos/During_Work.jpeg" alt="Team RCBC Fun Photo" width="600">
+  <img src="During_Work.jpeg" alt="Team RCBC Working in Lab" width="600">
 </div>
+### 🕒 After Work
+<div align="center">
+  <img src="After_Work.jpeg" alt="Team RCBC After Work" width="600">
+</div>
+
+### 🎉 Fun Fact
+**We are friends for a long time.**
+<div align="center">
+  <img src="Fun_Fact_photos.jpeg" alt="Team RCBC Fun Fact" width="600">
+</div>
+---
+
+## 📝 Notes
+- High-resolution photos documenting our engineering process and teamwork.
+- For video demonstrations and updates, visit our 🎥 [YouTube Channel](https://www.youtube.com/@WRO_RCBC_EGYPT).
+
+---
+
+### 🔗 Related Documentation
+- 🏎️ **Vehicle Photos & Layout**: [Car Photos Documentation](../Car_Photos/README.md)
+- ⚙️ **Mechanical Systems**: [Mechanical Design Documentation](../Mechanical_Design/README.md)
+- 👥 **Team Details**: [Main Documentation](../README.md#the-team)
+
 
 ### **Team Journey Moments**
 Throughout our development process from initial concept to competition readiness, we captured key moments demonstrating our collaborative spirit and technical dedication. These images showcase our brainstorming sessions, technical adjustments, and competition preparation.
