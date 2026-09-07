@@ -153,6 +153,7 @@ This folder contains photos of **Team RCBC**, capturing our team spirit, collabo
 <div align="center">
   <img src="During_Work.jpeg" alt="Team RCBC Working in Lab" width="600">
 </div>
+
 ### 🕒 After Work
 <div align="center">
   <img src="After_Work.jpeg" alt="Team RCBC After Work" width="600">
@@ -302,7 +303,7 @@ Our electronic architecture emphasizes modularity, reliability, and hands-on eng
 
 | Component | Image | Quantity | Function | Key Specifications |
 |-----------|-------|----------|----------|-------------------|
-| **Raspberry Pi 4 Model B (4GB)** |<img src="Others/Raspbery%20Pi%204%20Model%20B.png" width="150" alt="Raspberry Pi 4"> | 1 | Main Processing & Vision | Quad-core Cortex-A72, 4GB RAM, Peripheral & Camera Interface |
+| **Raspberry Pi 4 Model B (4GB)** |<img src="Others/Raspbery%20Pi%204%20Model%20B.png" width="150" alt="Raspberry Pi 4">| 1 | Main Processing & Vision | Quad-core Cortex-A72, 4GB RAM, Peripheral & Camera Interface |
 | **Raspberry Pi Camera Module 2 (8MP)** | <img src="Others/Camera_Module.png" width="150" alt="Camera Module"> | 1 | Visual Navigation | 8MP Sony IMX219 sensor, 1080p video, CSI interface |
 | **HC-SR04 Ultrasonic Sensor** | <img src="Others/Ultrasoni_Sensor.png" width="150" alt="Ultrasonic Sensor"> | 2 | Distance & Obstacle Detection | 2cm to 400cm range, 15-degree measurement angle |
 | **MG966R Servo Motor** | <img src="Others/Mg966R%20Servo%20Motor.png" width="150" alt="Servo Motor"> | 1 | Steering Actuation | High-torque metal gear servo, 180° rotation |
