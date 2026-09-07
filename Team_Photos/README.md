@@ -21,7 +21,7 @@ This folder contains photos of **Team RCBC**, capturing our team spirit, collabo
 ### 🎉 Fun Fact
 **We are friends for a long time.**
 <div align="center">
-  <img src="Fun_Fact.jpeg" alt="Team RCBC Fun Fact" width="600">
+  <img src="Fun_Fact_photos.jpeg" alt="Team RCBC Fun Fact" width="600">
 </div>
 ---
 
