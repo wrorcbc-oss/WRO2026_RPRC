@@ -348,10 +348,7 @@ During system integration, we identified a critical design limitation in our cho
 * **Component Modification**: Remapped power distribution lines and integrated a reliable master power distribution path.
 * **Implementation**: Rerouted the main input rails through the primary hardware switch to ensure complete circuit isolation when deactivated.
 * **Validation**: Full power cut-off achieved with zero standby current draw, protecting the Raspberry Pi and motor drivers from unwanted power leakage.
-<div align="center">
-  <img src="schemes/switch_fix.jpg" alt="Power Management Modification" width="600">
-  <p><em>Hardware modification enabling complete power rail control through single switch</em></p>
-</div>
+
 
 ### **Signal Integrity Systems**
 
@@ -727,13 +724,6 @@ Our compact dimensions required innovative parking strategies to operate within 
 
 The algorithm handles all possible obstacle combinations through systematic pattern recognition and response.
 
-<div align="center">
-<img src="src/obstacle_challenge_strategy_1.jpg" alt="Clockwise Navigation Patterns" height="375">
-<img src="src/obstacle_challenge_strategy_2.jpg" alt="Counter-clockwise Navigation Patterns" height="375">
-</div>
-<p align="center">
-  <em>Comprehensive obstacle combination analysis for both navigation directions</em>
-</p>
 
 ### **Vision Processing Pipeline**
 
