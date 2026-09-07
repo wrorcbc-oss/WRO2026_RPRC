@@ -33,28 +33,22 @@ Our system employs a modular dual-processing architecture to balance high-level 
 ### Master Wiring Schematic & Physical Implementation
 
 <p align="center">
-  <a href="master_wiring_diagram.jpg" target="_blank">
-    <img src="master_wiring_diagram.jpg" alt="[PLACEHOLDER: Add master_wiring_diagram.jpg here]" height="350">
-  </a>
-  <img src="physical_board_layout.jpg" alt="[PLACEHOLDER: Add physical_board_layout.jpg here]" height="350">
-</p>
-<p align="center">
   <em>1) Complete system wiring schematic showing all electrical connections • 2) Physical implementation of the electronics board</em>
 </p>
 
 ### Component-Specific Schematics
 
 <p align="center">
-  <img src="rpi_esp32_communication_scheme.jpg" alt="[PLACEHOLDER: Add rpi_esp32_communication_scheme.jpg]" height="300">
-  <img src="motor_driver_scheme.jpg" alt="[PLACEHOLDER: Add motor_driver_scheme.jpg]" height="300">
+  <img src="schmems/raspery_bi_connected_with_camera.jpg" alt="[PLACEHOLDER: Add rpi_esp32_communication_scheme.jpg]" height="300">
+  <img src="schmems/motor_drive.jpg" alt="[PLACEHOLDER: Add motor_driver_scheme.jpg]" height="300">
 </p>
 <p align="center">
   <em>1) Raspberry Pi 4 to ESP32 UART/I2C Communication & Logic Level Wiring • 2) Motor Driver and DC Motor Control Scheme</em>
 </p>
 
 <p align="center">
-  <img src="sensors_wiring_scheme.jpg" alt="[PLACEHOLDER: Add sensors_wiring_scheme.jpg]" height="300">
-  <img src="power_distribution_scheme.jpg" alt="[PLACEHOLDER: Add power_distribution_scheme.jpg]" height="300">
+  <img src="schmems/ultrasonic.jpg" alt="[PLACEHOLDER: Add sensors_wiring_scheme.jpg]" height="300">
+  <img src="schmems/Lipo_power_mangment.jpg" alt="[PLACEHOLDER: Add power_distribution_scheme.jpg]" height="300">
 </p>
 <p align="center">
   <em>3) HC-SR04 Ultrasonic Sensors & Camera Wiring • 4) Power Step-Down and Battery Distribution Architecture</em>
@@ -65,8 +59,8 @@ Our system employs a modular dual-processing architecture to balance high-level 
 ## 🎮 Interface & Control Systems
 
 <p align="center">
-  <img src="button_scheme.jpg" alt="[PLACEHOLDER: Start Button]" height="350">
-  <img src="level_converter_scheme.jpg" alt="[PLACEHOLDER: Logic Level Conversion]" height="350">
+  <img src="schmems/button.jpg" alt="[PLACEHOLDER: Start Button]" height="350">
+  <img src="schmems/servo_motor.jpg" alt="[PLACEHOLDER: Logic Level Conversion]" height="350">
 </p>
 <p align="center">
   <em>1) Tactile start button with direct connection to microcontroller • 2) Logic level converter implementation for signal safety</em>
@@ -168,4 +162,4 @@ All critical component specs and electrical ratings are archived locally in this
 This comprehensive electrical and schematic documentation provides complete transparency into our design process, component selection rationale, manufacturing methodology, and problem-solving approaches. Every aspect of our electrical system has been optimized for reliability, maintainability, and performance in the WRO 2026 Future Engineers competition.
 
 **Documentation Completeness**: All schematics, wiring diagrams, component specifications, and implementation details are provided to enable exact replication of our electrical systems. This documentation aims to fulfill the WRO Future Engineers competition requirements for comprehensive engineering documentation through detailed electrical system transparency.
-](https://github.com/wrorcbc-oss/WRO2025_RCBC/edit/main/Schemes/README.md)
+]
