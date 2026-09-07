@@ -313,13 +313,7 @@ Our electronic architecture emphasizes modularity, reliability, and hands-on eng
 
 ### **Professional Wiring Implementation**
 
-<div align="center">
-  <a href="schemes/wiring_diagram.jpg" target="_blank"> 
-    <img src="schemes/wiring_diagram.jpg" alt="Professional Wiring Diagram" height="300">
-  </a>
-  <img src="schemes/complete_sockets_pertinax_scheme.jpg" alt="Physical Implementation" height="300">
-</div>
-<p align="center">
+
   <em>1) Complete hand-drawn and digitally traced professional wiring schematic showing all electrical connections (<a href="schemes/wiring_diagram.jpg" target="_blank">view full resolution</a>) • 2) Physical implementation demonstrating socket-based construction of the schematic</em>
 </p>
 
