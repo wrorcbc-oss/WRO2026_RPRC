@@ -169,6 +169,11 @@ This folder contains photos of **Team RCBC**, capturing our team spirit, collabo
 - High-resolution photos documenting our engineering process and teamwork.
 - For video demonstrations and updates, visit our 🎥 [YouTube Channel](https://www.youtube.com/@WRO_RCBC_EGYPT).
 
+
+## 📝 Notes
+- High-resolution photos documenting our engineering process and teamwork.
+- For video demonstrations and updates, visit our 🎥 [YouTube Channel](https://www.youtube.com/@WRO_RCBC_EGYPT).
+
 ---
 
 ### 🔗 Related Documentation
